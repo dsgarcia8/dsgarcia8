@@ -1,4 +1,4 @@
-### Hi, I'm a engineering student and developer in process 👩🏻‍🎓
+### Hi, I’m a engineering student and developer in process 👩🏻‍🎓
 
 <!--
 **dsgarcia8/dsgarcia8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,5 @@
 - ⚡ Fun fact: ...
 -->
 - 💻 I’m currently learning Angular
-- 🐍 I'm improving my Python coding skills
+- 🐍 I’m improving my Python coding skills
 
