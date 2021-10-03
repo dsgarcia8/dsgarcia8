@@ -12,5 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👩🏻‍💻 I’m currently learning Angular and improving my Python coding skills
+- 💻 I’m currently learning Angular
+- 🐍 I'm improving my Python coding skills
 
