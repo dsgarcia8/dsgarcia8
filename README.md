@@ -15,3 +15,16 @@
 - 💻 I’m currently learning Angular
 - 🐍 I’m improving my Python coding skills
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsgarcia8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsgarcia8&show_icons=true&theme=radical)-->
+
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][1.2]][1]
+
+<!-- Icons -->
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/dsgarcia8/
