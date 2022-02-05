@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 I’m currently learning Angular
+- 💻 I’m currently learning Angular and React
 - 🐍 I’m improving my Python coding skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsgarcia8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
