@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsgarcia8&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsgarcia8&show_icons=true&theme=radical)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsgarcia8&show_icons=true&theme=radical)
 
 <!-- Actual text -->
 
