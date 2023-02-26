@@ -1,4 +1,4 @@
-### Hi, I’m a engineering student and developer in process 👩🏻‍🎓
+### Hi, I’m a Telematics Engineer and Software developer 👩🏻‍🎓
 
 <!--
 **dsgarcia8/dsgarcia8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 I’m currently learning Angular and React
-- 🐍 I’m improving my Python coding skills
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsgarcia8&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
